@@ -1,5 +1,5 @@
 # User name
-user_name = str(input("Enter your name:"))
+user_name = input("Enter your name:")
 print(f"Hello, {user_name}")
 # Use score starting point
 file_name = open("rating.txt")
